@@ -1,0 +1,13 @@
+{
+  "id": "webexteams",
+  "name": "Webex Teams",
+  "version": "1.0.0",
+  "description": "Webex Teams",
+  "main": "index.js",
+  "author": "Steve DaSilva <steve@stevedasilva.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://teams.webex.com",
+    "hasIndirectMessages": true
+  }
+}
