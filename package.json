@@ -8,6 +8,6 @@
   "license": "MIT",
   "config": {
     "serviceURL": "https://teams.webex.com",
-    "hasIndirectMessages": true
+    "hasIndirectMessages": false
   }
 }
