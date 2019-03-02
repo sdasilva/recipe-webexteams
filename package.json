@@ -8,6 +8,7 @@
   "license": "MIT",
   "repository": "https://github.com/sdasilva/recipe-webexteams",
   "config": {
-    "serviceURL": "https://teams.webex.com"
+    "serviceURL": "https://teams.webex.com",
+    "hasIndirectMessages": true
   }
 }
